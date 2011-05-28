@@ -1,4 +1,5 @@
 Jstennis::Application.routes.draw do
+  resource :tennis
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
